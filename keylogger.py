@@ -1,6 +1,5 @@
 # keylogger.py
-# Create an Advanced Keylogger in Python - Crash Course notes
-# Author: Grant Collins
+# Author: Shivam Sharma
 
 # Libraries
 
